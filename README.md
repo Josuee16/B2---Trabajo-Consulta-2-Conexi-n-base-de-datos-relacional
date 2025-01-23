@@ -39,3 +39,22 @@ Tipos de controladores JDBC:
 - Si buscas mayor control, un enfoque funcional puro y seguridad en transacciones, Doobie es más adecuado.
 
 ## 3. ¿Cómo establecer una conexión a una Base de Datos Relacional?
+### 1. Creamos la Base de Datos en MySQL.
+
+![image](https://github.com/user-attachments/assets/8260bc47-281b-4ba1-925c-8894885a7828)
+
+### 2. Importamos la dependecia a nuestro proyecto de Scala con el sbt.
+
+![image](https://github.com/user-attachments/assets/2a06c9a6-1179-4e29-8ae5-2bb3155e617b)
+
+### 3. Luego creamos un archivo en Scala para conectar la base de datos.
+
+![image](https://github.com/user-attachments/assets/87e89234-10e5-4b83-a638-1bf08620ed83)
+
+### 4. Probamos la conexión con la base de datos realizando la consulta de los datos de la tabla creada previamente.
+
+![image](https://github.com/user-attachments/assets/71fd3c2b-b63f-44bc-8164-a278504ee1c9)
+
+
+
+
